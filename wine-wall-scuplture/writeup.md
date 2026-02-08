@@ -18,6 +18,7 @@ Initially, I spent time browsing social media platforms (Instagram alternatives,
 A targeted search for:
 *Feluka Seafood Restaurant wall sculpture*
 led to a 3D Warehouse (SketchUp) model of the sculpture. The model page contained the key metadata (see attached image)
+![3D Warehouse Screenshot](images/3d_model.png)
  
 •	Designer: Waleed Abu Nassar
 •	Length: 298.9
