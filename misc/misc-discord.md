@@ -14,7 +14,7 @@ The challenge hinted that the flag was hidden somewhere in the CTF’s Discord s
 At the top of the channel, there was a grey clickable box labeled “Let’s go brrrrrr.” Clicking this box opened the channel topic popup, which contained the hidden flag.
 
 The below image shows this:-
-![Free_points](images\discord_flag)
+![Free_points](images/discord_flag.png)
  
 This follows a common CTF pattern where organizers embed flags inside Discord metadata such as channel topics, pinned messages, or announcement sections.
 **Flag :**
