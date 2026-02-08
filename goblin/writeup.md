@@ -74,6 +74,7 @@ ________________________________________
 
 Running the program with the script active prints the flag character by character:
 CodefestCTF{k3ro_kero_G0bl1n_mehehe}
+![This is the image)(images/goblin_solve.png)
 ________________________________________
 **Flag**
 
