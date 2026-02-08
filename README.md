@@ -1,6 +1,6 @@
 ## IIT BHU Codefest CTF 2026 Writeups
 
-This repository contains my writeups for challenges solved during **IIT BHU Codefest CTF 2026 (02–03 Feb 2026).
+This repository contains my writeups for challenges solved during *IIT BHU Codefest CTF 2026* (02–03 Feb 2026).
 The writeups document my approach, tools, and reasoning across different categories.
 
 ## Solved Challenges
